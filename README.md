@@ -4,6 +4,10 @@
 
 To conduct a comprehensive analysis of blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPI’s and visualization in Power BI.
 
+Task performed: Data Cleaning, created measures, used slicers, cards and various charts for data visualization.
+
+Tools Used: Microsoft Excel and Power BI
+
 # KPI’s Requirements:
 
 Total Sales: The overall revenue generated from all items sold.
