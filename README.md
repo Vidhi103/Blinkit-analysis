@@ -20,51 +20,52 @@ Average Rating: The average customer rating for items sold.
 
 	  Objective: Analyze the impact of fat content on total sales.
    
-    Additional KPI Metrics: Assess how other KPI (Average Sales, Number of Items, and Average Rating) vary with fat content.
+          Additional KPI Metrics: Assess how other KPI (Average Sales, Number of Items, and Average Rating) vary with fat content.
     
-    Chart Type: Donut Chart.
+          Chart Type: Donut Chart.
     
 ## Total Sales by Item type:
 
 	  Objective: Analyze the performance of different items types in terms of total sales. 
    
-    Additional KPI Metrics: Assess how other KPI (Average Sales, Number of Items, and Average Rating) vary with fat content.
+          Additional KPI Metrics: Assess how other KPI (Average Sales, Number of Items, and Average Rating) vary with fat content.
     
-    Chart Type: Bar Chart.
-    
+          Chart Type: Bar Chart.
+     
 ## Fat Content by outlet for Total Sales:
 
-    Objective: Compare total sales across different outlets segmentation by fat   content.
+          Objective: Compare total sales across different outlets segmentation by fat   content.
     
-    Additional KPI Metrics: Assess how other KPI (Average Sales, Number of Items, and Average Rating) vary with fat content.
+          Additional KPI Metrics: Assess how other KPI (Average Sales, Number of Items, and Average Rating) vary with fat content.
     
-    Chart Type: Stacked column Chart.
+          Chart Type: Stacked column Chart.
     
 ## Total Sales by outlet Establishment:
 
 	  Objective: Evaluate how type of outlet establishment influences total sales.
    
-    Chart Type: Line Chart.
-    
+          Chart Type: Line Chart.
+     
 ## Sales by outlet size:
 
 	  Objective: Analyze the correlation between outlet size and total sales.
    
-    Chart Type: Donut Chart.
+          Chart Type: Donut Chart.
     
 ## Sales by outlet location:
 
 	  Objective: Assess the geographical distribution of sales across different locations.
    
-    Chart Type: Funnel Chart.
+          Chart Type: Funnel Chart.
     
 ## All metrics by outlet type:
 
-    Objective: Provide a comprehensive view of all key metrics (Total sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
+          Objective: Provide a comprehensive view of all key metrics (Total sales, Average Sales, Number of Items, Average Rating) broken down by different outlet 
+                     types.
     
-    Additional KPI Metrics: Assess how other KPI (Average Sales, Number of Items, and Average Rating) vary with fat content.
+          Additional KPI Metrics: Assess how other KPI (Average Sales, Number of Items, and Average Rating) vary with fat content.
     
-    Chart Type: Matrix Card.
+          Chart Type: Matrix Card.
 
 
 
